@@ -1,4 +1,4 @@
-FROM gradle
+FROM gitpod/workspace-full:latest
 
 USER root
 
